@@ -1,0 +1,17 @@
+{
+  "name": "staria-gestor",
+  "version": "0.8.0",
+  "description": "StarIA Gestor (Startwo): 75 comandos /staria-* para administrar a loja com o ERP StarIA — resumo do dia, vendas, mercadorias, estoque, compras, financeiro, encartes, seções, alertas e relatórios em PDF — sempre com o que aconteceu e o que fazer.",
+  "author": {
+    "name": "Startwo"
+  },
+  "keywords": [
+    "staria",
+    "startwo",
+    "varejo",
+    "supermercado",
+    "estoque",
+    "ruptura",
+    "gestão de loja"
+  ]
+}

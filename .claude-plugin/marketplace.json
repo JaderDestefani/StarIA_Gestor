@@ -1,0 +1,14 @@
+{
+  "name": "startwo",
+  "description": "Plugins da Startwo para o ERP StarIA",
+  "owner": {
+    "name": "Startwo"
+  },
+  "plugins": [
+    {
+      "name": "staria-gestor",
+      "source": "./plugins/staria-gestor",
+      "description": "StarIA Gestor: 75 comandos /staria-* para administrar a loja com o ERP StarIA, sempre com o que aconteceu e o que fazer."
+    }
+  ]
+}
